@@ -315,6 +315,22 @@ h2 {
 .btn:hover {
     background: #2d2d31;
 }
+/* ---Publication Section--- */
+
+.publication-link {
+    font-size: 20px;
+    color:#F5DEDC;
+    text-decoration: none;
+}
+
+.publication-link:hover {
+    color: #F5DEDC;
+    text-decoration: underline;
+}
+/* ---Footer--- */
+footer {
+    padding: 50px 0;
+}
 
 /* ---Contact Section--- */
 
